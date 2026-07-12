@@ -118,10 +118,10 @@ This approach helps me move beyond memorizing queries and build practical SQL sk
 | Difficulty | Completed |
 |------------|-----------|
 | 🟢 Easy | 24 |
-| 🟡 Medium | 14 |
+| 🟡 Medium | 15 |
 | 🔴 Hard | ☐ |
 
-**Overall Progress:** 40/ 50
+**Overall Progress:** 41/ 50
 
 *(This table will be updated as I progress through the study plan.)*
 
