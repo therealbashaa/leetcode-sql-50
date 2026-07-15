@@ -67,7 +67,7 @@ LeetCode-SQL-50/
 ├── Hard/
 │   └── ...
 │
-└── README.md
+└── You are here
 ```
 
 ---
@@ -117,7 +117,7 @@ This approach helps me move beyond memorizing queries and build practical SQL sk
 
 | Difficulty | Completed |
 |------------|-----------|
-| 🟢 Easy | 25 |
+| 🟢 Easy | 27 |
 | 🟡 Medium | 16 |
 | 🔴 Hard | 1 |
 
